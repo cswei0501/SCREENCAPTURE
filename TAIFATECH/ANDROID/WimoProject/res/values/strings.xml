@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WimoMain!</string>
+    <string name="app_name">WiMo</string>
+    
+    <string name="wimo_open">已打开</string>
+    <string name="wimo_close">已关闭</string>
+</resources>

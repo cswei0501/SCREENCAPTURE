@@ -1,0 +1,680 @@
+TiScreenCap
+v7
+r0
+t332998508.733145
+cCheck dependencies
+cCpResource build/Debug-iphoneos/iScreenCap.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/Info.plist iScreenCap-Info.plist
+cCompileXIB /Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib
+cCompileXIB /Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib
+cProcessPCH /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch iScreenCap_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/main.o /Users/xuweiqiang/Documents/iScreenCap/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapAppDelegate.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapViewController.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap normal armv7
+cGenerateDSYMFile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app.dSYM /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap
+cProcessProductPackaging "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/B467D7AB-B22D-4DAE-8A68-AB7EDBC9A220.mobileprovision" /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision
+cTouch /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap.xcent
+cCodeSign /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers/AssetsLibrary.h
+c000000004D5EC0390000000000000134
+t1298055225
+s308
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/net/if.h
+c000000004D54CB240000000000003DBA
+t1297402660
+s15802
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/net/if_dl.h
+c000000004D54CB2400000000000013E6
+t1297402660
+s5094
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/netinet/in.h
+c000000004D54CB250000000000006BAC
+t1297402661
+s27564
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/pthread.h
+c000000004D4F6E910000000000003BF6
+t1297051281
+s15350
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/stdio.h
+c000000004D4F6E910000000000004763
+t1297051281
+s18275
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/stdlib.h
+c000000004D4F6E9100000000000030A7
+t1297051281
+s12455
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/string.h
+c000000004D4F6E910000000000001A3A
+t1297051281
+s6714
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/sys/socket.h
+c000000004D54CB290000000000005ACF
+t1297402665
+s23247
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/sys/sockio.h
+c000000004D54CB2900000000000022F2
+t1297402665
+s8946
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/sys/sysctl.h
+c000000004D54CB290000000000007D09
+t1297402665
+s32009
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/sys/time.h
+c000000004D54CB290000000000001E64
+t1297402665
+s7780
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/unistd.h
+c000000004D4F6E910000000000006662
+t1297051281
+s26210
+
+N/Users/xuweiqiang/Documents/iScreenCap/../../Desktop/iScreenCap/libjpegenc.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/../libjpegenc.a
+c000000004E002A080000000000009F00
+t1308633608
+s40704
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.h
+c000000004E041DD40000000000000204
+t1308892628
+s516
+i<UIKit/UIKit.h>
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m
+c000000004E28EC2D0000000000009004
+t1311304749
+s36868
+i<stdio.h>
+i<pthread.h>
+i<unistd.h>
+i<UIKit/UIKit.h>
+i<AssetsLibrary/AssetsLibrary.h>
+i<sys/socket.h>
+i<sys/sockio.h>
+i<net/if.h>
+i<netinet/in.h>
+i<stdlib.h>
+i<string.h>
+i<sys/socket.h>
+i<sys/sysctl.h>
+i<net/if.h>
+i<net/if_dl.h>
+i"ci_jpegenc.h"
+i<sys/socket.h>
+i"iScreenCapAppDelegate.h"
+i"iScreenCapViewController.h"
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.h
+c000000004E0426E80000000000000156
+t1308894952
+s342
+i<UIKit/UIKit.h>
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m
+c000000004E04290A0000000000000692
+t1308895498
+s1682
+i"iScreenCapViewController.h"
+
+N/Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib
+c000000004E04251E0000000000005631
+t1308894494
+s22065
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app
+t1311305708
+s374
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app.dSYM
+t1311304771
+s102
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/Info.plist
+t1311304896
+s845
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/MainWindow.nib
+t1309239872
+s1687
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/PkgInfo
+t1311304896
+s8
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/ResourceRules.plist
+t1309239869
+s485
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision
+t1311304073
+s21036
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap
+t1311304771
+s56912
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCapViewController.nib
+t1309239873
+s4187
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCap
+t2
+s0
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCap.LinkFileList
+c000000004E096A3D0000000000000193
+t1309239869
+s403
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCapAppDelegate.o
+t1309239875
+s89368
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCapViewController.o
+t1309239875
+s39960
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/main.o
+t1309239875
+s6448
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap
+t1309239930
+s46760
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap.LinkFileList
+c000000004E096A3D0000000000000193
+t1309239869
+s403
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapAppDelegate.o
+t1311304770
+s89068
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapViewController.o
+t1309239876
+s39764
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/main.o
+t1309239876
+s6432
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap.xcent
+t1311304896
+s416
+
+N/Users/xuweiqiang/Documents/iScreenCap/ci_codec_type.h
+c000000004E0014AF000000000000153E
+t1308628143
+s5438
+i<Windows.h>
+i<sys/time.h>
+
+N/Users/xuweiqiang/Documents/iScreenCap/ci_jpegenc.h
+c000000004E0020E20000000000000F1A
+t1308631266
+s3866
+i"ci_codec_type.h"
+
+N/Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib
+c000000004E04322E000000000000698E
+t1308897838
+s27022
+
+N/Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch
+c000000004E040C3D00000000000000BD
+t1308888125
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a
+c000000004E002A080000000000009F00
+t1308633608
+s40704
+
+N/Users/xuweiqiang/Documents/iScreenCap/main.m
+c000000004E040C3D000000000000016B
+t1308888125
+s363
+i<UIKit/UIKit.h>
+
+N/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/5D16F1AE-F07A-476B-98C6-05F9E8389825.mobileprovision
+c000000004E09538A00000000000051F0
+t1309234058
+s20976
+
+N/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/B467D7AB-B22D-4DAE-8A68-AB7EDBC9A220.mobileprovision
+c000000004E28E923000000000000522C
+t1311303971
+s21036
+
+N/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/C8998EBC-9B46-40A3-8448-1D73181AD97D.mobileprovision
+c000000004E0431D400000000000051F0
+t1308897748
+s20976
+
+N/var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch.gch
+t1309239875
+s10184604
+
+N/var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch
+t1309239875
+s10647452
+
+N/var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch.gch
+t1308898752
+s10184604
+
+N/var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch
+t1308898752
+s10647452
+
+NiScreenCap-Info.plist
+c000000004E04338C0000000000000388
+t1308898188
+s904
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332998507#332998507#0(0"0(0#1#0"8628504096#0"0#
+
+CCodeSign /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app
+s332998507.764360
+e332998508.733090
+r1
+xCodeSign
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app
+o/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app: replacing existing signature
+lSLF07#2@44"CodeSign build/Debug-iphoneos/iScreenCap.app332998507#332998508#0(105"/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app: replacing existing signature0(0#0#74"/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app8628002048#662"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: xu weiqiang (D7CETY5266)" --resource-rules=/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/ResourceRules.plist --entitlements /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap.xcent /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app0#
+
+CCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCapAppDelegate.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330932675.559913
+e330932675.789950
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCapAppDelegate.o
+x/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recv':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:275: warning: pointer targets in passing argument 6 of 'recvfrom' differ in signedness
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recorder':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:409: warning: passing argument 3 of 'CIARGB32ToYCbCr420' from incompatible pointer type
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:409: warning: pointer targets in passing argument 4 of 'CIARGB32ToYCbCr420' differ in signedness
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:441: warning: pointer targets in initialization differ in signedness
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:471: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:493: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:511: warning: comparison is always false due to limited range of data type
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:511: warning: comparison is always false due to limited range of data type
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:525: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:541: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:549: warning: invalid receiver type 'CFDataRef'
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:360: warning: unused variable 'datalength'
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'GetIPAddress':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:576: warning: implicit declaration of function 'ioctl'
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'init':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:715: warning: implicit declaration of function 'inet_addr'
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'test_thread':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:776: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:804: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:813: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:847: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:865: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:894: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:931: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:945: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:959: warning: return makes pointer from integer without a cast
+lSLF07#2@78"Compile /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932675#330932675#0(3641"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recv':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:275: warning: pointer targets in passing argument 6 of 'recvfrom' differ in signedness/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recorder':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:409: warning: passing argument 3 of 'CIARGB32ToYCbCr420' from incompatible pointer type/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:409: warning: pointer targets in passing argument 4 of 'CIARGB32ToYCbCr420' differ in signedness/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:441: warning: pointer targets in initialization differ in signedness/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:471: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:493: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:511: warning: comparison is always false due to limited range of data type/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:511: warning: comparison is always false due to limited range of data type/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:525: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:541: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:549: warning: invalid receiver type 'CFDataRef'/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:360: warning: unused variable 'datalength'/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'GetIPAddress':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:576: warning: implicit declaration of function 'ioctl'/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'init':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:715: warning: implicit declaration of function 'inet_addr'/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'test_thread':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:776: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:804: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:813: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:847: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:865: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:894: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:931: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:945: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:959: warning: return makes pointer from integer without a cast23(22@72"Pointer targets in passing argument 6 of 'recvfrom' differ in signedness330932675#99#158#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#275#0#275#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@73"Passing argument 3 of 'CIARGB32ToYCbCr420' from incompatible pointer type330932675#360#159#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#409#0#409#0#56"passing argument * of '*' from incompatible pointer type0(22@82"Pointer targets in passing argument 4 of 'CIARGB32ToYCbCr420' differ in signedness330932675#519#168#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#409#0#409#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@54"Pointer targets in initialization differ in signedness330932675#687#140#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#441#0#441#0#0"0(22@48"Return makes pointer from integer without a cast330932675#827#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#471#0#471#0#0"0(22@48"Return makes pointer from integer without a cast330932675#961#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#493#0#493#0#0"0(22@60"Comparison is always false due to limited range of data type330932675#1095#146#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#511#0#511#0#0"0(22@60"Comparison is always false due to limited range of data type330932675#1241#146#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#511#0#511#0#0"0(22@48"Return makes pointer from integer without a cast330932675#1387#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#525#0#525#0#0"0(22@48"Return makes pointer from integer without a cast330932675#1521#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#541#0#541#0#0"0(22@33"Invalid receiver type 'CFDataRef'330932675#1655#119#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#549#0#549#0#0"0(22@28"Unused variable 'datalength'330932675#1774#114#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#360#0#360#0#19"unused variable '*'0(22@40"Implicit declaration of function 'ioctl'330932675#1988#126#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#576#0#576#0#36"implicit declaration of function '*'0(22@44"Implicit declaration of function 'inet_addr'330932675#2206#130#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#715#0#715#0#36"implicit declaration of function '*'0(22@48"Return makes pointer from integer without a cast330932675#2435#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#776#0#776#0#0"0(22@48"Return makes pointer from integer without a cast330932675#2569#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#804#0#804#0#0"0(22@48"Return makes pointer from integer without a cast330932675#2703#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#813#0#813#0#0"0(22@48"Return makes pointer from integer without a cast330932675#2837#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#847#0#847#0#0"0(22@48"Return makes pointer from integer without a cast330932675#2971#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#865#0#865#0#0"0(22@48"Return makes pointer from integer without a cast330932675#3105#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#894#0#894#0#0"0(22@48"Return makes pointer from integer without a cast330932675#3239#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#931#0#931#0#0"0(22@48"Return makes pointer from integer without a cast330932675#3373#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#945#0#945#0#0"0(22@48"Return makes pointer from integer without a cast330932675#3507#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330932492#959#0#959#0#0"0(0#0#70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m8623553408#1826"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv6 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -include /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCapAppDelegate.o0#
+
+CCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCapViewController.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330932675.790069
+e330932675.858433
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCapViewController.o
+x/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m330932675#330932675#0(0"0(0#0#73"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m8623217248#1832"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv6 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -include /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCapViewController.o0#
+
+CCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/main.o /Users/xuweiqiang/Documents/iScreenCap/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330932675.504154
+e330932675.559795
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/main.o
+x/Users/xuweiqiang/Documents/iScreenCap/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/xuweiqiang/Documents/iScreenCap/main.m330932675#330932675#0(0"0(0#0#45"/Users/xuweiqiang/Documents/iScreenCap/main.m8623899136#1784"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv6 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -include /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/main.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapAppDelegate.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332997570.177089
+e332997570.504855
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapAppDelegate.o
+x/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recv':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:275: warning: pointer targets in passing argument 6 of 'recvfrom' differ in signedness
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recorder':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:411: warning: passing argument 3 of 'CIARGB32ToYCbCr420' from incompatible pointer type
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:411: warning: pointer targets in passing argument 4 of 'CIARGB32ToYCbCr420' differ in signedness
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:443: warning: pointer targets in initialization differ in signedness
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:473: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:495: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:513: warning: comparison is always false due to limited range of data type
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:513: warning: comparison is always false due to limited range of data type
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:527: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:543: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:551: warning: invalid receiver type 'CFDataRef'
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:361: warning: unused variable 'datalength'
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'GetIPAddress':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:582: warning: implicit declaration of function 'ioctl'
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'init':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:721: warning: implicit declaration of function 'inet_addr'
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'test_thread':
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:783: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:812: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:821: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:855: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:873: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:902: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:939: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:953: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:967: warning: return makes pointer from integer without a cast
+o/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:765: warning: unused variable 'currtick'
+lSLF07#2@78"Compile /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997570#332997570#0(3753"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recv':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:275: warning: pointer targets in passing argument 6 of 'recvfrom' differ in signedness/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recorder':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:411: warning: passing argument 3 of 'CIARGB32ToYCbCr420' from incompatible pointer type/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:411: warning: pointer targets in passing argument 4 of 'CIARGB32ToYCbCr420' differ in signedness/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:443: warning: pointer targets in initialization differ in signedness/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:473: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:495: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:513: warning: comparison is always false due to limited range of data type/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:513: warning: comparison is always false due to limited range of data type/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:527: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:543: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:551: warning: invalid receiver type 'CFDataRef'/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:361: warning: unused variable 'datalength'/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'GetIPAddress':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:582: warning: implicit declaration of function 'ioctl'/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'init':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:721: warning: implicit declaration of function 'inet_addr'/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'test_thread':/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:783: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:812: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:821: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:855: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:873: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:902: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:939: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:953: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:967: warning: return makes pointer from integer without a cast/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:765: warning: unused variable 'currtick'24(22@72"Pointer targets in passing argument 6 of 'recvfrom' differ in signedness332997570#99#158#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#275#0#275#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@73"Passing argument 3 of 'CIARGB32ToYCbCr420' from incompatible pointer type332997570#360#159#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#411#0#411#0#56"passing argument * of '*' from incompatible pointer type0(22@82"Pointer targets in passing argument 4 of 'CIARGB32ToYCbCr420' differ in signedness332997570#519#168#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#411#0#411#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@54"Pointer targets in initialization differ in signedness332997570#687#140#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#443#0#443#0#0"0(22@48"Return makes pointer from integer without a cast332997570#827#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#473#0#473#0#0"0(22@48"Return makes pointer from integer without a cast332997570#961#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#495#0#495#0#0"0(22@60"Comparison is always false due to limited range of data type332997570#1095#146#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#513#0#513#0#0"0(22@60"Comparison is always false due to limited range of data type332997570#1241#146#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#513#0#513#0#0"0(22@48"Return makes pointer from integer without a cast332997570#1387#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#527#0#527#0#0"0(22@48"Return makes pointer from integer without a cast332997570#1521#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#543#0#543#0#0"0(22@33"Invalid receiver type 'CFDataRef'332997570#1655#119#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#551#0#551#0#0"0(22@28"Unused variable 'datalength'332997570#1774#114#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#361#0#361#0#19"unused variable '*'0(22@40"Implicit declaration of function 'ioctl'332997570#1988#126#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#582#0#582#0#36"implicit declaration of function '*'0(22@44"Implicit declaration of function 'inet_addr'332997570#2206#130#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#721#0#721#0#36"implicit declaration of function '*'0(22@48"Return makes pointer from integer without a cast332997570#2435#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#783#0#783#0#0"0(22@48"Return makes pointer from integer without a cast332997570#2569#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#812#0#812#0#0"0(22@48"Return makes pointer from integer without a cast332997570#2703#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#821#0#821#0#0"0(22@48"Return makes pointer from integer without a cast332997570#2837#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#855#0#855#0#0"0(22@48"Return makes pointer from integer without a cast332997570#2971#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#873#0#873#0#0"0(22@48"Return makes pointer from integer without a cast332997570#3105#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#902#0#902#0#0"0(22@48"Return makes pointer from integer without a cast332997570#3239#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#939#0#939#0#0"0(22@48"Return makes pointer from integer without a cast332997570#3373#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#953#0#953#0#0"0(22@48"Return makes pointer from integer without a cast332997570#3507#134#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#967#0#967#0#0"0(22@26"Unused variable 'currtick'332997570#3641#112#0(6@70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m332997549#765#0#765#0#19"unused variable '*'0(0#0#70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m8622556352#1826"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv7 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -include /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapAppDelegate.o0#
+
+CCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapViewController.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330932676.228353
+e330932676.299284
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapViewController.o
+x/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m330932676#330932676#0(0"0(0#0#73"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m8622517664#1832"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv7 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -include /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCapViewController.o0#
+
+CCompileC build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/main.o /Users/xuweiqiang/Documents/iScreenCap/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330932675.961355
+e330932676.021417
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/main.o
+x/Users/xuweiqiang/Documents/iScreenCap/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/xuweiqiang/Documents/iScreenCap/main.m330932675#330932676#0(0"0(0#0#45"/Users/xuweiqiang/Documents/iScreenCap/main.m8621937504#1784"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv7 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -include /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/main.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib
+s330932669.944791
+e330932673.009787
+r1
+xCompileXIB
+x/Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330932669#330932673#0(0"0(0#0#53"/Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib8622913888#545"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/MainWindow.nib /Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib
+s330932669.945877
+e330932674.036117
+r1
+xCompileXIB
+x/Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB iScreenCapViewController.xib330932669#330932674#0(252"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#67"/Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib8622792256#573"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCapViewController.nib /Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/iScreenCap.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s330932669.919074
+e330932669.944647
+r1
+xCpResource
+xbuild/Debug-iphoneos/iScreenCap.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist330932669#330932669#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8623858528#497"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app0#
+
+CCreateUniversalBinary /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap normal "armv6 armv7"
+s330932220.813769
+e330932220.817351
+r1
+xCreateUniversalBinary
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap
+xnormal
+xarmv6 armv7
+lSLF07#2@89"CreateUniversalBinary build/Debug-iphoneos/iScreenCap.app/iScreenCap normal "armv6 armv7"330932220#330932220#0(0"0(0#0#50"/Users/xuweiqiang/Documents/iScreenCap/armv6 armv78623432608#542"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCap /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap -output /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap0#
+
+CGenerateDSYMFile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app.dSYM /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap
+s332997571.653360
+e332997571.872267
+r1
+xGenerateDSYMFile
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app.dSYM
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/iScreenCap.app.dSYM build/Debug-iphoneos/iScreenCap.app/iScreenCap332997571#332997571#0(0"0(0#0#85"/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap8620770720#371"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app.dSYM0#
+
+CLd /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap normal armv7
+s332997570.505266
+e332997571.653250
+r1
+xLd
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap
+xnormal
+xarmv7
+old: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in CONSTANT_0 from /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a(quantize_Z_ads_v6.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie
+lSLF07#2@90"Link /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap332997570#332997571#0(290"ld: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in CONSTANT_0 from /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a(quantize_Z_ads_v6.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie1(22@276"PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in CONSTANT_0 from /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a(quantize_Z_ads_v6.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie332997571#0#290#0(6@0"332997571#0#0#0#0#0"0(0#0#0"8620782720#954"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -L/Users/xuweiqiang/Documents/iScreenCap -L/Users/xuweiqiang/Documents/iScreenCap/../../Desktop/iScreenCap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -filelist /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -ljpegenc -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/iScreenCap0#
+
+CLd /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCap normal armv6
+s330933678.613129
+e330933678.654393
+r0
+xLd
+x/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCap
+xnormal
+xarmv6
+old: warning: ignoring file /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a, file was built for archive which is not the architecture being linked (armv6)
+oUndefined symbols for architecture armv6:
+o  "_CI_JPGENC_Frame", referenced from:
+o      _thread_Recorder in iScreenCapAppDelegate.o
+o  "_CIARGB32ToYCbCr420", referenced from:
+o      _thread_Recorder in iScreenCapAppDelegate.o
+o  "_CI_JPGENC_Close", referenced from:
+o      _thread_Recorder in iScreenCapAppDelegate.o
+o  "_CI_JPGENC_Open", referenced from:
+o      _thread_Recorder in iScreenCapAppDelegate.o
+old: symbol(s) not found for architecture armv6
+ocollect2: ld returned 1 exit status
+lSLF07#2@130"Link /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCap330933678#330933678#0(641"ld: warning: ignoring file /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a, file was built for archive which is not the architecture being linked (armv6)Undefined symbols for architecture armv6:  "_CI_JPGENC_Frame", referenced from:      _thread_Recorder in iScreenCapAppDelegate.o  "_CIARGB32ToYCbCr420", referenced from:      _thread_Recorder in iScreenCapAppDelegate.o  "_CI_JPGENC_Close", referenced from:      _thread_Recorder in iScreenCapAppDelegate.o  "_CI_JPGENC_Open", referenced from:      _thread_Recorder in iScreenCapAppDelegate.old: symbol(s) not found for architecture armv6collect2: ld returned 1 exit status11(22@144"Ignoring file /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a, file was built for archive which is not the architecture being linked (armv6)330933678#0#158#0(6@0"330933678#0#0#0#0#0"0(4@36""_CI_JPGENC_Frame", referenced from:330933678#200#39#0(6@0"330933678#0#0#0#0#0"0(13@43"_thread_Recorder in iScreenCapAppDelegate.o330933678#239#50#0(6@0"330933678#0#0#0#0#0"0(4@39""_CIARGB32ToYCbCr420", referenced from:330933678#289#42#0(6@0"330933678#0#0#0#0#0"0(13@43"_thread_Recorder in iScreenCapAppDelegate.o330933678#331#50#0(6@0"330933678#0#0#0#0#0"0(4@36""_CI_JPGENC_Close", referenced from:330933678#381#39#0(6@0"330933678#0#0#0#0#0"0(13@43"_thread_Recorder in iScreenCapAppDelegate.o330933678#420#50#0(6@0"330933678#0#0#0#0#0"0(4@35""_CI_JPGENC_Open", referenced from:330933678#470#38#0(6@0"330933678#0#0#0#0#0"0(13@43"_thread_Recorder in iScreenCapAppDelegate.o330933678#508#50#0(6@0"330933678#0#0#0#0#0"0(13@42"Symbol(s) not found for architecture armv6330933678#558#47#0(6@0"330933678#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status330933678#605#36#0(6@0"330933678#0#0#0#0#0"0(0#0#0"8623073088#994"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -L/Users/xuweiqiang/Documents/iScreenCap -L/Users/xuweiqiang/Documents/iScreenCap/../../Desktop/iScreenCap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -filelist /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCap.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -ljpegenc -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv6/iScreenCap1#
+
+CLd /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap normal armv7
+s330932730.635849
+e330932730.673971
+r1
+xLd
+x/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap
+xnormal
+xarmv7
+old: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in CONSTANT_0 from /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a(quantize_Z_ads_v6.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie
+lSLF07#2@130"Link /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap330932730#330932730#0(290"ld: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in CONSTANT_0 from /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a(quantize_Z_ads_v6.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie1(22@276"PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in CONSTANT_0 from /Users/xuweiqiang/Documents/iScreenCap/libjpegenc.a(quantize_Z_ads_v6.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie330932730#0#290#0(6@0"330932730#0#0#0#0#0"0(0#0#0"8622764032#994"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -L/Users/xuweiqiang/Documents/iScreenCap -L/Users/xuweiqiang/Documents/iScreenCap/../../Desktop/iScreenCap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -filelist /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -ljpegenc -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/Objects-normal/armv7/iScreenCap0#
+
+CProcessInfoPlistFile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/Info.plist iScreenCap-Info.plist
+s332997696.349897
+e332997696.448649
+r1
+xProcessInfoPlistFile
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/Info.plist
+xiScreenCap-Info.plist
+lSLF07#2@29"Process iScreenCap-Info.plist332997696#332997696#0(0"0(0#0#60"/Users/xuweiqiang/Documents/iScreenCap/iScreenCap-Info.plist8633908416#574"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iScreenCap-Info.plist -genpkginfo /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/ResourceRules.plist -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/Info.plist0#
+
+CProcessPCH /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch.gch iScreenCap_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330932674.036274
+e330932675.380887
+r1
+xProcessPCH
+x/var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch.gch
+xiScreenCap_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile iScreenCap_Prefix.pch330932674#330932675#0(0"0(0#0#60"/Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch8609911424#1679"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv6 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -c /Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch -o /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch iScreenCap_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330932674.037514
+e330932675.504015
+r1
+xProcessPCH
+x/var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch
+xiScreenCap_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile iScreenCap_Prefix.pch330932674#330932675#0(0"0(0#0#60"/Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch8605371744#1679"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv7 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -c /Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch -o /var/folders/0V/0VzCp3LxGlaZ9QjALKUmPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch.gch iScreenCap_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330591551.329024
+e330591552.902425
+r1
+xProcessPCH
+x/var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch.gch
+xiScreenCap_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile iScreenCap_Prefix.pch330591551#330591552#0(0"0(0#0#60"/Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch8604270784#1679"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv6 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -c /Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch -o /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-axzjgtmkamtqbldwidldsuzrioye/iScreenCap_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch iScreenCap_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330591551.330451
+e330591552.962760
+r1
+xProcessPCH
+x/var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch
+xiScreenCap_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile iScreenCap_Prefix.pch330591551#330591552#0(0"0(0#0#60"/Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch8604062368#1679"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources/armv7 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/DerivedSources -c /Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch -o /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-dqsznfzhlowihmddknaamrxxasce/iScreenCap_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/5D16F1AE-F07A-476B-98C6-05F9E8389825.mobileprovision" /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision
+s330932676.335804
+e330932676.337484
+r1
+xProcessProductPackaging
+x/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/5D16F1AE-F07A-476B-98C6-05F9E8389825.mobileprovision
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/5D16F1AE-F07A-476B-98C6-05F9E8389825.mobileprovision" build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision330932676#330932676#0(0"0(0#0#99"/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision8610159008#431"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/5D16F1AE-F07A-476B-98C6-05F9E8389825.mobileprovision" -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/B467D7AB-B22D-4DAE-8A68-AB7EDBC9A220.mobileprovision" /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision
+s332996873.516715
+e332996873.578342
+r1
+xProcessProductPackaging
+x/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/B467D7AB-B22D-4DAE-8A68-AB7EDBC9A220.mobileprovision
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/B467D7AB-B22D-4DAE-8A68-AB7EDBC9A220.mobileprovision" build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision332996873#332996873#0(0"0(0#0#99"/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision8631069344#431"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/B467D7AB-B22D-4DAE-8A68-AB7EDBC9A220.mobileprovision" -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/C8998EBC-9B46-40A3-8448-1D73181AD97D.mobileprovision" /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision
+s330591555.270333
+e330591555.271955
+r1
+xProcessProductPackaging
+x/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/C8998EBC-9B46-40A3-8448-1D73181AD97D.mobileprovision
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/C8998EBC-9B46-40A3-8448-1D73181AD97D.mobileprovision" build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision330591555#330591555#0(0"0(0#0#99"/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision8603483520#431"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/xuweiqiang/Library/MobileDevice/Provisioning Profiles/C8998EBC-9B46-40A3-8448-1D73181AD97D.mobileprovision" -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap.xcent
+s332997696.465597
+e332997696.521025
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap.xcent
+lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap.xcent332997696#332997696#0(0"0(0#0#110"/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap.xcent8627414720#441"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphoneos/iScreenCap.build/iScreenCap.xcent0#
+
+CTouch /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app
+s332997696.449983
+e332997696.465487
+r1
+xTouch
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app
+lSLF07#2@80"Touch /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app332997696#332997696#0(0"0(0#0#0"8631312512#267"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphoneos/iScreenCap.app0#
+

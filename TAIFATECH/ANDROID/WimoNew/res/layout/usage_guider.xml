@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+ <RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:orientation="vertical" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:background="@drawable/bg_main">  
+	
+	<ImageView android:id="@+id/img_title"
+		android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/usage_title"
+	    android:layout_marginTop="20dip"
+	    android:layout_centerHorizontal="true"/>
+	
+	<ViewFlipper android:id="@+id/flipper_usage"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"/>
+	    
+	
+	<ImageView android:id="@+id/img_navigator"
+		android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/navigator1"
+	    android:layout_alignParentBottom="true"
+	    android:layout_marginBottom="10dip"
+	    android:layout_centerHorizontal="true"/>
+
+	 
+</RelativeLayout>
+ 

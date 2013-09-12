@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content"
+	android:background="@drawable/bg_dialog"
+	android:padding="5dip">
+	
+	<LinearLayout
+		android:orientation="horizontal" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:gravity="center_vertical"
+		>
+		
+		<ImageView 
+			android:layout_width="50dip" 
+			android:layout_height="50dip"
+			android:background="@drawable/logo_signal"/>
+		<TextView 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="5dip"
+			android:textColor="#008ee0"
+			android:textSize="20sp"
+			android:text="@string/string_tv_position"/>
+	</LinearLayout>
+ 	<ImageView 
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content"
+			android:background="@drawable/bg_line"/>
+			
+	<ListView
+	     android:id="@+id/list"
+	     android:layout_width="260dip"
+	 	 android:layout_height="150dip"
+	 	 android:listSelector="@drawable/bg_list_sel"
+	     android:cacheColorHint="#00000000"
+	     />
+	<LinearLayout
+		android:orientation="horizontal" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:gravity="center_horizontal"
+		>
+		
+		<Button android:id="@+id/btn_ok"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:background="@drawable/button_common"
+		android:textColor="#fff"
+		android:textSize="18sp"
+		android:text="@string/string_ok"/>
+		<Button android:id="@+id/btn_no"
+		
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="15dip"
+		android:background="@drawable/button_common"
+		android:textColor="#fff"
+		android:textSize="18sp"
+		android:text="@string/string_cancel"/>
+	</LinearLayout>
+	
+</LinearLayout>

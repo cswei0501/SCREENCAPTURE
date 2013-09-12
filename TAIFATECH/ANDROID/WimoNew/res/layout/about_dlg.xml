@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" 
+	android:layout_width="280dip" 
+	android:layout_height="260dip"
+	android:background="@drawable/bg_dialog"
+	android:padding="5dip">
+	
+	<LinearLayout
+		android:orientation="horizontal" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:gravity="center_vertical"
+		>
+		
+		<ImageView 
+			android:layout_width="50dip" 
+			android:layout_height="50dip"
+			android:background="@drawable/logo_signal"/>
+		<TextView 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="5dip"
+			android:textColor="#008ee0"
+			android:textSize="20sp"
+			android:text="@string/string_about"/>
+	</LinearLayout>
+ 	<ImageView 
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content"
+			android:background="@drawable/bg_line"/>
+
+	<LinearLayout
+		android:orientation="horizontal" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content">
+		
+ 	<TextView
+ 	    android:layout_width="wrap_content"
+ 	    android:layout_height="wrap_content"
+ 	    android:layout_marginLeft="5dip"
+ 	    android:layout_marginTop="2dip"
+ 	    android:text="@string/string_version_num"
+ 	    android:textColor="#fff"
+ 	    android:textSize="16sp" />
+	
+	 	<TextView
+	 	    android:id="@+id/t_version"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_marginLeft="5dip"
+	 	    android:layout_marginTop="2dip"
+	 	    android:textColor="#fff"
+	 	    android:textSize="14sp" 
+	 	    android:text="@string/string_null"/>
+	 </LinearLayout>
+	
+	<LinearLayout
+		android:orientation="vertical" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="5dip"
+		android:layout_marginTop="5dip"
+		>
+	<TextView android:id="@+id/tv_version"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="5dip"
+			android:textColor="#fff"
+			android:textSize="13sp"
+			android:text="@string/string_null"/>
+	</LinearLayout>
+	
+	<LinearLayout
+		android:orientation="vertical" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="5dip"
+		android:layout_marginTop="5dip"
+		>
+		<TextView 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:textColor="#008ee0"
+			android:textSize="14sp"
+			android:text="@string/string_develop_company"/>
+		<LinearLayout
+			android:orientation="horizontal" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+			<TextView 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:textColor="#fff"
+				android:textSize="16sp"
+				android:text="@string/string_official_website"/>
+			<TextView android:id="@+id/tv_cidanaweb"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dip"
+				android:textColor="#fff"
+				android:textSize="14sp"
+				android:autoLink="web"
+				android:text="@string/string_website"/>
+		</LinearLayout>
+	</LinearLayout>
+	<LinearLayout
+		android:orientation="vertical" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="5dip"
+		android:gravity="center_vertical"
+		android:layout_weight="1.0">
+		<TextView 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:textColor="#008ee0"
+			android:textSize="16sp"
+			android:text="@string/string_cmri"/>
+		<TextView 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:textColor="#fff"
+			android:textSize="16sp"
+			android:text="@string/string_cmcc_producer"/>
+	</LinearLayout>
+	
+	<Button android:id="@+id/btn_ok"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:background="@drawable/button_common"
+		android:textColor="#fff"
+		android:textSize="18sp"
+		android:text="@string/string_ok"/>
+</LinearLayout>

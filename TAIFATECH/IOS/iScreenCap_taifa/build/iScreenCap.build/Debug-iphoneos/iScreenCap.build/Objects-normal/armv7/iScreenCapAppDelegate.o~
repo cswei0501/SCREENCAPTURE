@@ -1,0 +1,29 @@
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recv':
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:275: warning: pointer targets in passing argument 6 of 'recvfrom' differ in signedness
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'thread_Recorder':
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:411: warning: passing argument 3 of 'CIARGB32ToYCbCr420' from incompatible pointer type
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:411: warning: pointer targets in passing argument 4 of 'CIARGB32ToYCbCr420' differ in signedness
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:443: warning: pointer targets in initialization differ in signedness
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:473: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:495: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:513: warning: comparison is always false due to limited range of data type
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:513: warning: comparison is always false due to limited range of data type
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:527: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:543: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:551: warning: invalid receiver type 'CFDataRef'
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:361: warning: unused variable 'datalength'
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'GetIPAddress':
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:582: warning: implicit declaration of function 'ioctl'
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'init':
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:721: warning: implicit declaration of function 'inet_addr'
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m: In function 'test_thread':
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:783: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:812: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:821: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:855: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:873: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:902: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:939: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:953: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:967: warning: return makes pointer from integer without a cast
+/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m:765: warning: unused variable 'currtick'

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content"
+	android:background="@drawable/bg_dialog"
+	android:padding="5dip">
+ 
+	<TextView 
+		android:layout_width="fill_parent" 
+		android:layout_height="50dip"
+		android:layout_marginLeft="5dip"
+		android:textColor="#008ee0"
+		android:textSize="20sp"
+		android:gravity="center"
+		android:text="@string/string_select_device"/>
+ 
+	
+ 	<ImageView 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:background="@drawable/bg_line"/>
+	 
+	<ListView android:id="@+id/lv_devices"
+		android:layout_width="260dip"
+		android:layout_height="200dip"
+		android:dividerHeight="1px"
+		android:cacheColorHint="@android:color/transparent"
+		android:layout_weight="1.0"/>
+	
+	
+</LinearLayout>

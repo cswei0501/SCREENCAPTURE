@@ -1,0 +1,258 @@
+TiScreenCap
+v7
+r0
+t330581071.088151
+cCheck dependencies
+cProcessInfoPlistFile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/Info.plist iScreenCap-Info.plist
+cCompileXIB /Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib
+cCompileXIB /Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib
+cProcessPCH /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-asxvpupvzchvbmgauwnkrlxjluni/iScreenCap_Prefix.pch.gch iScreenCap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/main.o /Users/xuweiqiang/Documents/iScreenCap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapAppDelegate.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapViewController.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap normal i386
+cGenerateDSYMFile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app.dSYM /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap
+cTouch /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.h
+c000000004E040C3D00000000000001F0
+t1308888125
+s496
+i<UIKit/UIKit.h>
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m
+c000000004E040C3D0000000000000AB8
+t1308888125
+s2744
+i"iScreenCapAppDelegate.h"
+i"iScreenCapViewController.h"
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.h
+c000000004E040CC40000000000000112
+t1308888260
+s274
+i<UIKit/UIKit.h>
+
+N/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m
+c000000004E040C3D00000000000005CC
+t1308888125
+s1484
+i"iScreenCapViewController.h"
+
+N/Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib
+c000000004E040C3D0000000000004E4D
+t1308888125
+s20045
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app
+t1308888271
+s238
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app.dSYM
+t1308888270
+s102
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/Info.plist
+t1308888261
+s603
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/MainWindow.nib
+t1308888266
+s1687
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/PkgInfo
+t1308888261
+s8
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap
+t1308888270
+s17340
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCapViewController.nib
+t1308888266
+s1269
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCap.LinkFileList
+c000000004E040CC500000000000001A5
+t1308888261
+s421
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapAppDelegate.o
+t1308888270
+s51616
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapViewController.o
+t1308888270
+s38312
+
+N/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/main.o
+t1308888270
+s6312
+
+N/Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib
+c000000004E040C3D0000000000001A51
+t1308888125
+s6737
+
+N/Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch
+c000000004E040C3D00000000000000BD
+t1308888125
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/xuweiqiang/Documents/iScreenCap/main.m
+c000000004E040C3D000000000000016B
+t1308888125
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-asxvpupvzchvbmgauwnkrlxjluni/iScreenCap_Prefix.pch.gch
+t1308888269
+s15814064
+
+NiScreenCap-Info.plist
+c000000004E040C3D000000000000038D
+t1308888125
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330581061#330581061#0(0"0(0#1#0"8623864192#0"0#
+
+CCompileC build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapAppDelegate.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330581070.372384
+e330581070.479576
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapAppDelegate.o
+x/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m330581070#330581070#0(0"0(0#0#70"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m8636628544#2016"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/DerivedSources/i386 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/DerivedSources -include /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-asxvpupvzchvbmgauwnkrlxjluni/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapAppDelegate.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapAppDelegate.o0#
+
+CCompileC build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapViewController.o /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330581070.479696
+e330581070.570209
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapViewController.o
+x/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m330581070#330581070#0(0"0(0#0#73"/Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m8632207776#2022"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/DerivedSources/i386 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/DerivedSources -include /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-asxvpupvzchvbmgauwnkrlxjluni/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/Classes/iScreenCapViewController.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCapViewController.o0#
+
+CCompileC build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/main.o /Users/xuweiqiang/Documents/iScreenCap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330581070.024741
+e330581070.372273
+r1
+xCompileC
+xbuild/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/main.o
+x/Users/xuweiqiang/Documents/iScreenCap/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/xuweiqiang/Documents/iScreenCap/main.m330581070#330581070#0(0"0(0#0#45"/Users/xuweiqiang/Documents/iScreenCap/main.m8641269216#1974"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/DerivedSources/i386 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/DerivedSources -include /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-asxvpupvzchvbmgauwnkrlxjluni/iScreenCap_Prefix.pch -c /Users/xuweiqiang/Documents/iScreenCap/main.m -o /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib
+s330581061.399291
+e330581066.187170
+r1
+xCompileXIB
+x/Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib
+o2011-06-24 12:04:25.897 Interface Builder Cocoa Touch Tool[13205:1803] CFPreferences: user home directory at file://localhost/Users/xuweiqiang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib330581061#330581066#0(245"2011-06-24 12:04:25.897 Interface Builder Cocoa Touch Tool[13205:1803] CFPreferences: user home directory at file://localhost/Users/xuweiqiang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#53"/Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib8633116352#573"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/MainWindow.nib /Users/xuweiqiang/Documents/iScreenCap/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib
+s330581061.400207
+e330581066.168952
+r1
+xCompileXIB
+x/Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib
+o2011-06-24 12:04:25.961 Interface Builder Cocoa Touch Tool[13204:1803] CFPreferences: user home directory at file://localhost/Users/xuweiqiang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@39"CompileXIB iScreenCapViewController.xib330581061#330581066#0(245"2011-06-24 12:04:25.961 Interface Builder Cocoa Touch Tool[13204:1803] CFPreferences: user home directory at file://localhost/Users/xuweiqiang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#67"/Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib8645790496#601"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCapViewController.nib /Users/xuweiqiang/Documents/iScreenCap/iScreenCapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app.dSYM /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap
+s330581070.876060
+e330581071.070704
+r1
+xGenerateDSYMFile
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app.dSYM
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/iScreenCap.app.dSYM build/Debug-iphonesimulator/iScreenCap.app/iScreenCap330581070#330581071#0(0"0(0#0#92"/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap8643032704#392"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app.dSYM0#
+
+CLd /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap normal i386
+s330581070.570313
+e330581070.875953
+r1
+xLd
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap
+xnormal
+xi386
+lSLF07#2@97"Link /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap330581070#330581070#0(0"0(0#0#0"8628810976#915"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator -filelist /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/Objects-normal/i386/iScreenCap.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/iScreenCap0#
+
+CProcessInfoPlistFile /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/Info.plist iScreenCap-Info.plist
+s330581061.387408
+e330581061.399172
+r1
+xProcessInfoPlistFile
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/Info.plist
+xiScreenCap-Info.plist
+lSLF07#2@29"Process iScreenCap-Info.plist330581061#330581061#0(0"0(0#0#60"/Users/xuweiqiang/Documents/iScreenCap/iScreenCap-Info.plist8641967744#488"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iScreenCap-Info.plist -genpkginfo /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app/Info.plist0#
+
+CProcessPCH /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-asxvpupvzchvbmgauwnkrlxjluni/iScreenCap_Prefix.pch.gch iScreenCap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330581066.187314
+e330581070.024518
+r1
+xProcessPCH
+x/var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-asxvpupvzchvbmgauwnkrlxjluni/iScreenCap_Prefix.pch.gch
+xiScreenCap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile iScreenCap_Prefix.pch330581066#330581070#0(0"0(0#0#60"/Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch8636506368#1863"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-generated-files.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-own-target-headers.hmap -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-all-target-headers.hmap -iquote /Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/iScreenCap-project-headers.hmap -F/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator -I/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/include -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/DerivedSources/i386 -I/Users/xuweiqiang/Documents/iScreenCap/build/iScreenCap.build/Debug-iphonesimulator/iScreenCap.build/DerivedSources -c /Users/xuweiqiang/Documents/iScreenCap/iScreenCap_Prefix.pch -o /var/folders/1n/1n6MoxZyFgaOoClGTTioVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iScreenCap_Prefix-asxvpupvzchvbmgauwnkrlxjluni/iScreenCap_Prefix.pch.gch0#
+
+CTouch /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app
+s330581071.070799
+e330581071.088102
+r1
+xTouch
+x/Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app
+lSLF07#2@87"Touch /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app330581071#330581071#0(0"0(0#0#0"8641873120#281"    cd /Users/xuweiqiang/Documents/iScreenCap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/xuweiqiang/Documents/iScreenCap/build/Debug-iphonesimulator/iScreenCap.app0#
+

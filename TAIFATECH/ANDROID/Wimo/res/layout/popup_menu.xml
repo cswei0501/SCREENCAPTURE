@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ android:id="@+id/pop_menu_root"
+ android:background="#ff3a3a3a"
+ android:stretchColumns="0,1"
+ >
+ 
+    
+    <TableRow 
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:orientation="horizontal"
+     >
+     <LinearLayout 
+         android:id="@+id/menu_upgrade"
+         android:orientation="horizontal"
+         android:layout_width="0dip"
+	     android:layout_height="wrap_content"
+	     android:background="@drawable/menu_item_bg"
+	     android:gravity="center_vertical"
+         >
+        	<ImageView android:id="@+id/menu_upgrade_ic"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:background="@drawable/icon_upgrade"
+	            android:layout_marginLeft="5dip"
+	            android:clickable="false" />
+	        <TextView android:id="@+id/menu_upgrade_tv"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="2dip"
+	            android:text="@string/string_menu_upgrade"
+	            android:textColor="@color/menu_item_tv_bg"
+	            android:textSize="18sp"
+	            android:clickable="false"
+	            android:focusable="true" />
+     </LinearLayout>
+     
+     <LinearLayout
+         android:id="@+id/menu_tv" 
+         android:orientation="horizontal"
+         android:layout_width="0dip"
+	     android:layout_height="wrap_content"
+	     android:background="@drawable/menu_item_bg"
+	     android:gravity="center_vertical"
+	     android:layout_marginLeft="1dip"
+         >
+         <ImageView android:id="@+id/menu_tv_ic"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:background="@drawable/icon_tv"
+	            android:layout_marginLeft="5dip"
+	            android:clickable="false" />
+	        <TextView android:id="@+id/menu_tv_text"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="2dip"
+	            android:text="@string/string_menu_tv"
+	            android:textColor="@color/menu_item_tv_bg"
+	            android:textSize="18sp"
+	            android:clickable="false"
+	            android:focusable="true" />
+     </LinearLayout>
+ </TableRow>
+ 
+ <TableRow 
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="1dip">
+     <LinearLayout 
+         android:id="@+id/menu_about"
+         android:orientation="horizontal"
+         android:layout_width="0dip"
+	     android:layout_height="wrap_content"
+	     android:background="@drawable/menu_item_bg"
+	     android:gravity="center_vertical"
+	     android:layout_weight="1"
+         >
+         <ImageView android:id="@+id/menu_about_ic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/icon_about"
+            android:layout_marginLeft="5dip"
+            android:clickable="false" />
+        <TextView android:id="@+id/menu_about_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dip"
+            android:text="@string/string_menu_about"
+            android:textColor="@color/menu_item_tv_bg"
+            android:textSize="18sp"
+            android:clickable="false"
+            android:focusable="true" />
+     </LinearLayout>
+     
+     <LinearLayout 
+         android:id="@+id/menu_help"
+         android:orientation="horizontal"
+         android:layout_width="0dip"
+	     android:layout_height="wrap_content"
+	     android:background="@drawable/menu_item_bg"
+	     android:gravity="center_vertical"
+	     android:layout_marginLeft="1dip"
+	     android:layout_weight="1"
+         >
+         <ImageView android:id="@+id/menu_help_ic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/icon_help"
+            android:layout_marginLeft="5dip"
+            android:clickable="false" />
+		<TextView android:id="@+id/menu_help_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dip"
+            android:text="@string/string_menu_help"
+            android:textColor="@color/menu_item_tv_bg"
+            android:textSize="18sp"
+            android:clickable="false"
+            android:focusable="true" />
+     </LinearLayout>
+     
+      <LinearLayout 
+         android:id="@+id/menu_exit"
+         android:orientation="horizontal"
+         android:layout_width="0dip"
+	     android:layout_height="wrap_content"
+	     android:background="@drawable/menu_item_bg"
+	     android:gravity="center_vertical"
+	     android:layout_marginLeft="1dip"
+	     android:layout_weight="1"
+         >
+         <ImageView android:id="@+id/menu_exit_ic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/icon_exit"
+            android:layout_marginLeft="5dip"
+            android:clickable="false" />
+		<TextView android:id="@+id/menu_exit_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dip"
+            android:text="@string/string_menu_exit"
+            android:textColor="@color/menu_item_tv_bg"
+            android:textSize="18sp"
+            android:clickable="false"
+            android:focusable="true" />
+     </LinearLayout>
+ </TableRow>
+ 
+</TableLayout>

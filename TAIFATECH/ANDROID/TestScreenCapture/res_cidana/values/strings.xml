@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TestScreenCaptureActivity!</string>
+    <string name="app_name">TestScreenCapture</string>
+    
+    <string name="title1">Screen Capture</string>
+    <string name="title2">Settings</string>
+    <string name="title3">Advanced Settings</string>
+    
+    <string name="radio_on">On</string>
+    <string name="radio_off">Off</string>
+    
+    <string name="setting_display_mode">Display Mode</string>
+    <string name="setting_letterbox">Letterbox</string>
+    <string name="setting_stretch">Stretch</string>
+    
+    <string name="setting_vr_mode">VR Mode</string>
+    <string name="setting_system">System</string>
+    <string name="setting_fb">Frame Buffer</string>
+</resources>
